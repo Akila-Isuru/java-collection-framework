@@ -1,4 +1,4 @@
-package com.ticketapp;
+package com.collections;
 
 public class NeedOfCollection {
     public static void main(String[] args) {
